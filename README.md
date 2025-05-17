@@ -1,4 +1,4 @@
-# 🏊‍♂️ PoolsApp – Dockerized Local Deployment
+# <img src="images/deadpool-emoji.png" alt="Deadpool Emoji" width="32" height="32"> PoolsApp – Dockerized Local Deployment
 
 This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poolsapp](https://github.com/mrpool404/poolsapp)) using **Docker containers** on a local machine. The app includes:
 
