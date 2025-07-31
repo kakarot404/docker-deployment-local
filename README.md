@@ -8,7 +8,7 @@ This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: Angular  
 - **Backend**: Node.js  
@@ -17,7 +17,7 @@ This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poo
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```plaintext
 docker-deployment-local/
@@ -39,14 +39,14 @@ docker-deployment-local/
     └── … (Node.js routes & logic)
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone** this repo and move the original PoolsApp README out of the way:
    ```bash
    git clone https://github.com/kakarot404/docker-deployment-local.git
    cd docker-deployment-local
    mv README.md ORIGINAL_README.md
-   # (or move it into docs/ if you prefer)
+   (or move it into docs/ if you prefer)
    ```
 
 2. Use following doker-compose command to get the setup up and running :
@@ -57,7 +57,7 @@ docker-deployment-local/
 3. Browse the app at  ➡️ http://localhost:4200
 
 
-## 🔧 What "docker-compose up --build" Does ?
+## What "docker-compose up --build" does ?
 
     Builds Docker images for frontend and backend
 
@@ -71,7 +71,7 @@ docker-deployment-local/
 
         iii. frontend (poolapp-frontend)
 
-## ✅ Verify & Troubleshoot
+## Verify & Troubleshoot
 
 ### 1. Check Backend Logs:
 Look for:   "Connected to MongoDB!"
@@ -90,7 +90,7 @@ docker exec -it mongo-container mongosh       |     admin     100.00 KiB
 ```
 
 
-## ✍️ Author
+## Author
 
     Er. Powar Shubham S
 
