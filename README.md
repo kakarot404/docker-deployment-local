@@ -75,7 +75,7 @@ docker-deployment-local/
         iii. frontend (poolapp-frontend)
 
 
-## 📝 Manual Commands 
+## Manual Commands 
 
 If you prefer to run steps individually, here they are:
 
@@ -131,7 +131,7 @@ docker run -d \
 ```
 
 
-## ✅ Verify & Troubleshoot
+## Verify & Troubleshoot
 
 ### 1. Check Backend Logs:
 Look for:   "Connected to MongoDB!"
@@ -150,7 +150,7 @@ docker exec -it mongo-container mongosh       |     admin     100.00 KiB
 ```
 
 
-## ✍️ Author
+## Author
 
     Er. Powar Shubham S
 
