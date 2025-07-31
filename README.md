@@ -1,4 +1,4 @@
-# <img src="images/deadpool-emoji.png" alt="Deadpool Emoji" width="32" height="32"> PoolsApp – Dockerized Local Deployment
+# <img src="images/deadpool-emoji.png" alt="Deadpool Emoji" width="32" height="32"> OpenSource App – Dockerized Local Deployment
 
 This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poolsapp](https://github.com/mrpool404/poolsapp)) using **Docker containers** on a local machine. The app includes:
 
@@ -8,7 +8,7 @@ This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: Angular  
 - **Backend**: Node.js  
@@ -17,7 +17,7 @@ This project demonstrates deploying the open-source **PoolsApp** ([mrpool404/poo
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```plaintext
 docker-deployment-local/
@@ -39,7 +39,7 @@ docker-deployment-local/
     └── … (Node.js routes & logic)
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone** this repo and move the original PoolsApp README out of the way:
    ```bash
@@ -55,10 +55,10 @@ docker-deployment-local/
     ./start.sh
     ```
 
-3. Browse the app at  ➡️ http://localhost:4200
+3. Browse the app at  ➡  http://localhost:4200
 
 
-## 🔧 What "start.sh" Does ?
+## What "start.sh" Does ?
 
     Builds Docker images for frontend and backend
 
